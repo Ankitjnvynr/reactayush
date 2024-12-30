@@ -36,7 +36,7 @@ export const HomeOne = () => {
       <VideoOne />
 
       {/* event schedule */}
-      <EventOne />
+      {/* <EventOne /> */}
 
       {/* testimonial */}
       <TestimonialOne />
