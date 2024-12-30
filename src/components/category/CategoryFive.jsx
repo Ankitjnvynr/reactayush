@@ -30,7 +30,7 @@ export const CategoryFive = () => {
           data-wow-delay="0.2s"
         >
           <p className="td_section_subtitle_up td_fs_18 td_semibold td_spacing_1 td_mb_10 text-uppercase td_accent_color">
-            Welcome to educve
+            Welcome to SHRI KRISHNA AYUSH UNIVERSITY 
           </p>
           <h2 className="td_section_title td_fs_48 mb-0">Our Best Features</h2>
         </div>

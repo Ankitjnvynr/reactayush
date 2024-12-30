@@ -29,7 +29,7 @@ export const FaqAll = () => {
             <div className="td_accordian">
               <div className="td_accordian_head">
                 <h2 className="td_accordian_title td_fs_24">
-                  How this Educve works?
+                  How this SHRI KRISHNA AYUSH UNIVERSITY  works?
                 </h2>
                 <span className="td_accordian_toggle"></span>
               </div>
@@ -115,7 +115,7 @@ export const FaqAll = () => {
             <div className="td_accordian">
               <div className="td_accordian_head">
                 <h2 className="td_accordian_title td_fs_24">
-                  How this Educve works?
+                  How this SHRI KRISHNA AYUSH UNIVERSITY  works?
                 </h2>
                 <span className="td_accordian_toggle"></span>
               </div>

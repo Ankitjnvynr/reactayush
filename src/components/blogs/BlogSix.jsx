@@ -48,7 +48,7 @@ export const BlogSix = () => {
           </p>
           <h2 className="td_section_title td_fs_48 mb-0">
             Latest Article & News <br />
-            With Educve
+            With SHRI KRISHNA AYUSH UNIVERSITY 
           </h2>
         </div>
         <div className="td_height_50 td_height_lg_50" />

@@ -101,8 +101,8 @@ export const FooterThree = () => {
                   </li>
                   <li>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:help@educve.kinder.com">
-                      help@educve.kinder.com
+                    <a href="mailto:help@SHRI KRISHNA AYUSH UNIVERSITY .kinder.com">
+                      help@SHRI KRISHNA AYUSH UNIVERSITY .kinder.com
                     </a>
                   </li>
                   <li>
@@ -120,7 +120,7 @@ export const FooterThree = () => {
         <div className="container">
           <div className="td_footer_bottom_in">
             <p className="td_copyright mb-0">
-              Copyright ©educve | All Right Reserved
+              Copyright ©SHRI KRISHNA AYUSH UNIVERSITY  | All Right Reserved
             </p>
             <div className="td_footer_logo">
               <img src={footerLogo} alt="Logo" />

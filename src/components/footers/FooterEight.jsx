@@ -139,7 +139,7 @@ export const FooterEight = () => {
         <div className="container">
           <div className="td_footer_bottom_in">
             <p className="td_copyright mb-0">
-              Copyright ©educve | All Right Reserved
+              Copyright ©SHRI KRISHNA AYUSH UNIVERSITY  | All Right Reserved
             </p>
             <ul className="td_footer_widget_menu">
               <li>

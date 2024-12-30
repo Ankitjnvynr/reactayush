@@ -21,7 +21,7 @@ export const EventOne = () => {
           </p>
           <h2 className="td_section_title td_fs_48 mb-0">
             Upcoming Event Conference 2024 <br />
-            Host by Educve
+            Host by SHRI KRISHNA AYUSH UNIVERSITY 
           </h2>
         </div>
         <div className="td_height_50 td_height_lg_50" />

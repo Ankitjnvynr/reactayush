@@ -54,7 +54,7 @@ export const HeaderOne = () => {
                             <li>
                               <Link to="/">University</Link>
                             </li>
-                            <li>
+                            {/* <li>
                               <Link to="/home-v2">Online Educations</Link>
                             </li>
                             <li>
@@ -74,12 +74,12 @@ export const HeaderOne = () => {
                             </li>
                             <li>
                               <Link to="/home-v8">Kitchen Coach</Link>
-                            </li>
+                            </li> */}
                           </ul>
                         </li>
                         <li className="menu-item-has-children">
-                          <Link to="/products">Courses</Link>
-                          <ul>
+                          <Link to="/">Courses</Link>
+                          {/* <ul>
                             <li>
                               <Link to="/courses-grid-view">
                                 Courses Grid View
@@ -98,7 +98,7 @@ export const HeaderOne = () => {
                             <li>
                               <Link to="/course-details">Course Details</Link>
                             </li>
-                          </ul>
+                          </ul> */}
                         </li>
                         <li>
                           <Link to="/about">About</Link>
@@ -116,7 +116,7 @@ export const HeaderOne = () => {
                           <ul className="td_mega_wrapper">
                             <li className="menu-item-has-children">
                               <h4>Inner Pages</h4>
-                              <ul>
+                              {/* <ul>
                                 <li>
                                   <Link to="/event">Upcoming Event</Link>
                                 </li>
@@ -131,11 +131,11 @@ export const HeaderOne = () => {
                                     Team Details
                                   </Link>
                                 </li>
-                              </ul>
+                              </ul> */}
                             </li>
                             <li className="menu-item-has-children">
                               <h4>Inner Pages</h4>
-                              <ul>
+                              {/* <ul>
                                 <li>
                                   <Link to="/students-registrations">
                                     Students Registrations
@@ -152,11 +152,11 @@ export const HeaderOne = () => {
                                 <li>
                                   <Link to="/signin">Signin</Link>
                                 </li>
-                              </ul>
+                              </ul> */}
                             </li>
                             <li className="menu-item-has-children">
-                              <h4>Shop Pages</h4>
-                              <ul>
+                              <h4>Courses</h4>
+                              {/* <ul>
                                 <li>
                                   <Link to="/faqs">Faqs</Link>
                                 </li>
@@ -169,13 +169,13 @@ export const HeaderOne = () => {
                                 <li>
                                   <Link to="/error">Error</Link>
                                 </li>
-                              </ul>
+                              </ul> */}
                             </li>
                           </ul>
                         </li>
                         <li className="menu-item-has-children">
                           <Link to="#">Blogs</Link>
-                          <ul>
+                          {/* <ul>
                             <li>
                               <Link to="/blog">Blogs</Link>
                             </li>
@@ -187,7 +187,7 @@ export const HeaderOne = () => {
                             <li>
                               <Link to="/blog-details">Blog Details</Link>
                             </li>
-                          </ul>
+                          </ul> */}
                         </li>
                         <li>
                           <Link to="/contact">Contact</Link>

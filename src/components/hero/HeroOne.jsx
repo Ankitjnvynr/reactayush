@@ -8,7 +8,7 @@ export const HeroOne = () => {
     <>
       <section
         className="td_hero td_style_1 td_heading_bg td_center td_bg_filed"
-        style={{ backgroundImage: `url(${heroBg})` }}
+        style={{ backgroundImage: `url(${heroBg})`, marginTop: '20px' }}
       >
         <div className="container">
           <div
@@ -16,16 +16,14 @@ export const HeroOne = () => {
             data-wow-duration="0.9s"
             data-wow-delay="0.35s"
           >
-            <p className="td_hero_subtitle_up td_fs_18 td_white_color td_spacing_1 td_semibold text-uppercase td_mb_10 td_opacity_9">
+            <p className="td_hero_subtitle_up td_fs_52 td_white_color td_spacing_1 td_semibold text-uppercase td_mb_10 td_opacity_9">
               Knowledge is Power
             </p>
-            <h1 className="td_hero_title td_fs_64 td_white_color td_mb_12">
-              <span>Educve</span> - The Best Place to Invest in your Knowledge
-            </h1>
-            <p className="td_hero_subtitle td_fs_18 td_white_color td_opacity_7 td_mb_30">
-              A university is a vibrant institution that serves as a hub for
-              higher education and research. It provides a dynamic environment.
-            </p>
+            <h3 className="td_hero_title td_fs_32 td_white_color td_mb_12 td_opacity_9 mt-5 pt-5">
+              <span>SHRI KRISHNA AYUSH UNIVERSITY </span> - The Best Place to Invest in your Knowledge
+           
+            </h3>
+           
             <Link
               to="/courses-grid-view"
               className="td_btn td_style_1 td_radius_10 td_medium"

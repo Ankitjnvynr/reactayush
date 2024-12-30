@@ -81,7 +81,7 @@ export const TestimonialFive = () => {
                 TESTIMONIAL
               </p>
               <h2 className="td_section_title td_fs_48 td_mb_20">
-                Learners Say About Educve
+                Learners Say About SHRI KRISHNA AYUSH UNIVERSITY 
               </h2>
               <p className="td_section_subtitle td_fs_18 mb-0">
                 Far far away, behind the word mountains, far from <br />

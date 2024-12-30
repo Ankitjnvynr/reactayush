@@ -66,7 +66,7 @@ export const AboutFive = () => {
             <div className="td_tabs td_style_1">
               <ul className="td_tab_links td_style_3 td_mp_0 td_medium td_fs_24 td_heading_color">
                 <li className="active">
-                  <a href="#td_tab_1">About Educve</a>
+                  <a href="#td_tab_1">About SHRI KRISHNA AYUSH UNIVERSITY </a>
                 </li>
                 <li>
                   <a href="#td_tab_2">Our Mission</a>
