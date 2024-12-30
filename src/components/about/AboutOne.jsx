@@ -19,7 +19,7 @@ export const AboutOne = () => {
             >
               <div className="td_about_thumb_wrap">
                 <div className="td_about_year text-uppercase td_fs_64 td_bold">
-                  EST 1995
+                  EST 1972
                 </div>
                 <div className="td_about_thumb_1">
                   <img src={aboutImg1} alt="About" />
@@ -64,7 +64,7 @@ export const AboutOne = () => {
                   About us
                 </p>
                 <h2 className="td_section_title td_fs_48 mb-0">
-                  The largest & Most Diverse Universities in the United Emirates
+                  The largest & Most Diverse Universities in the India
                 </h2>
                 <p className="td_section_subtitle td_fs_18 mb-0">
                   Far far away, behind the word mountains, far from the
