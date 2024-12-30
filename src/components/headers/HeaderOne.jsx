@@ -48,12 +48,12 @@ export const HeaderOne = () => {
                     <div className="td_nav_list_wrap_in">
                       {/* first three */}
                       <ul className="td_nav_list">
-                        <li className="menu-item-has-children">
+                        <li className="menu-item">
                           <Link to="/">Home</Link>
                           <ul>
-                            <li>
+                            {/* <li>
                               <Link to="/">University</Link>
-                            </li>
+                            </li> */}
                             {/* <li>
                               <Link to="/home-v2">Online Educations</Link>
                             </li>
@@ -112,10 +112,10 @@ export const HeaderOne = () => {
                       {/* last three */}
                       <ul className="td_nav_list">
                         <li className="menu-item-has-children td_mega_menu">
-                          <Link to="#">Pages</Link>
+                          <Link to="#">Accademics</Link>
                           <ul className="td_mega_wrapper">
                             <li className="menu-item-has-children">
-                              <h4>Inner Pages</h4>
+                              <h4>Panchkarma</h4>
                               {/* <ul>
                                 <li>
                                   <Link to="/event">Upcoming Event</Link>
@@ -134,7 +134,7 @@ export const HeaderOne = () => {
                               </ul> */}
                             </li>
                             <li className="menu-item-has-children">
-                              <h4>Inner Pages</h4>
+                              <h4>Under Graduate</h4>
                               {/* <ul>
                                 <li>
                                   <Link to="/students-registrations">
@@ -173,8 +173,8 @@ export const HeaderOne = () => {
                             </li>
                           </ul>
                         </li>
-                        <li className="menu-item-has-children">
-                          <Link to="#">Blogs</Link>
+                        <li className="menu-item">
+                          <Link to="#">Results</Link>
                           {/* <ul>
                             <li>
                               <Link to="/blog">Blogs</Link>
@@ -190,7 +190,7 @@ export const HeaderOne = () => {
                           </ul> */}
                         </li>
                         <li>
-                          <Link to="/contact">Contact</Link>
+                          <Link to="/">Contact</Link>
                         </li>
                       </ul>
                     </div>
@@ -201,9 +201,9 @@ export const HeaderOne = () => {
               {/* right */}
               <div className="td_main_header_right">
                 {/* lang dropdown */}
-                <div className="position-relative td_language_wrap">
+                {/* <div className="position-relative td_language_wrap">
                   <HeaderLanguage />
-                </div>
+                </div> */}
 
                 <div className="position-relative">
                   <HeaderSearch />
