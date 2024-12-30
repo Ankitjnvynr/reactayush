@@ -18,12 +18,19 @@ export const FeatureOne = () => {
               className="td_radius_10 wow fadeInUp"
               data-wow-duration="1s"
               data-wow-delay="0.2s"
+
+              style={{
+                boxShadow: "0px 0px 50px rgba(0, 0, 0, 0.8)",
+              }}
             />
           </div>
           <div
             className="td_features_content td_white_bg td_radius_10 wow fadeInRight"
             data-wow-duration="1s"
             data-wow-delay="0.25s"
+            style={{
+              boxShadow: "0px 0px 50px rgba(0, 0, 0, 0.8)",
+            }}
           >
             <div className="td_section_heading td_style_1">
               <p className="td_section_subtitle_up td_fs_18 td_semibold td_spacing_1 td_mb_10 text-uppercase td_accent_color">
