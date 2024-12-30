@@ -19,7 +19,7 @@ export const AboutOne = () => {
             >
               <div className="td_about_thumb_wrap">
                 <div className="td_about_year text-uppercase td_fs_64 td_bold">
-                  EST 1995
+                  EST 1972
                 </div>
                 <div className="td_about_thumb_1">
                   <img src={aboutImg1} alt="About" />
