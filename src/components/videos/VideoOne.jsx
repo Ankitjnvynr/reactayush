@@ -14,7 +14,7 @@ export const VideoOne = () => {
           <VideoPlayer
             trigger={
               <a
-                href="#vid2"
+                href="#"
                 className="td_player_btn_wrap_2 td_video_open wow zoomIn"
                 data-wow-duration="1s"
                 data-wow-delay="0.2s"
@@ -31,6 +31,10 @@ export const VideoOne = () => {
             className="td_fs_48 td_white_color mb-0 wow fadeInUp"
             data-wow-duration="1s"
             data-wow-delay="0.2s"
+
+            style={{
+              textShadow: "0px 0px 10px rgba(0, 0, 0, 0.5)",
+            }}
           >
             Take a Video Tour to Learn <br />
             Intro of Campus
@@ -48,7 +52,7 @@ export const VideoOne = () => {
               Get In Touch:
             </p>
             <h3 className="td_fs_36 mb-0 td_white_color">
-              <a href="mailto:info@eduon.com">info@eduon.com</a>
+              <a href="mailto:info@bigbyteworld.com">info@bigbyteworld.com</a>
             </h3>
           </div>
           <div className="td_contact_box_or td_fs_24 td_medium td_white_bg td_white_bg td_center rounded-circle td_accent_color">
@@ -59,7 +63,7 @@ export const VideoOne = () => {
               Get In Touch:
             </p>
             <h3 className="td_fs_36 mb-0 td_white_color">
-              <a href="tel:+019987698870">+01 998 7698 870</a>
+              <a href="tel:+019987698870">+91 123 456 7890</a>
             </h3>
           </div>
         </div>
