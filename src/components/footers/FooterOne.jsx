@@ -131,11 +131,7 @@ export const FooterOne = () => {
         <div className="container">
           <div className="td_footer_bottom_in">
             <p className="td_copyright mb-0">
-<<<<<<< HEAD
-              Copyright ©SHRI KRISHNA AYUSH UNIVERSITY  | All Right Reserved
-=======
               Copyright © BigByte Innovations Pvt. Ltd. | All Right Reserved
->>>>>>> 3c76358a3e63fd440789875a12d7594aee589a66
             </p>
             <ul className="td_footer_widget_menu">
               <li>
