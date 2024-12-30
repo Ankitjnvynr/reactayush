@@ -97,7 +97,7 @@ export const CampusOne = () => {
               </svg>
               <div className="td_btn_box_in">
                 <Link
-                  to="/courses-grid-view"
+                  // to="/courses-grid-view"
                   className="td_btn td_style_1 td_radius_10 td_medium td_fs_18"
                 >
                   <span className="td_btn_in td_heading_color td_white_bg">
@@ -115,7 +115,8 @@ export const CampusOne = () => {
                   data-wow-duration="1s"
                   data-wow-delay="0.2s"
                 >
-                  <Link to="/course-details" className="td_card_thumb d-block">
+                  <Link to="/" className="td_card_thumb d-block">
+                  {/* <Link to="/" className="td_card_thumb d-block"></Link> */}
                     <img
                       src={campusLife1}
                       alt="Campus Life"
@@ -124,9 +125,11 @@ export const CampusOne = () => {
                   </Link>
                   <div className="td_card_info">
                     <h2 className="td_card_title mb-0 td_fs_18 td_semibold td_white_color">
-                      <Link to="/course-details">Campus Student Life</Link>
+                      {/* <Link to="/course-details">Campus Student Life</Link> */}
+                      <Link to="/">Campus Student Life</Link>
                     </h2>
-                    <Link to="/course-details" className="td_card_btn">
+                    <Link to="/" className="td_card_btn">
+                    {/* <Link to="/" className="td_card_btn"></Link> */}
                       <svg
                         width="23"
                         height="24"
@@ -180,7 +183,7 @@ export const CampusOne = () => {
                   data-wow-duration="1s"
                   data-wow-delay="0.3s"
                 >
-                  <Link to="/course-details" className="td_card_thumb d-block">
+                  <Link to="/" className="td_card_thumb d-block">
                     <img
                       src={campusLife3}
                       alt="Recreations & Wellness"
@@ -189,9 +192,9 @@ export const CampusOne = () => {
                   </Link>
                   <div className="td_card_info">
                     <h2 className="td_card_title mb-0 td_fs_18 td_semibold td_white_color">
-                      <Link to="/course-details">Recreations & Wellness</Link>
+                      <Link to="/">Recreations & Wellness</Link>
                     </h2>
-                    <Link to="/course-details" className="td_card_btn">
+                    <Link to="/" className="td_card_btn">
                       <svg
                         width="23"
                         height="24"
@@ -247,7 +250,7 @@ export const CampusOne = () => {
                   data-wow-duration="1s"
                   data-wow-delay="0.25s"
                 >
-                  <Link to="/course-details" className="td_card_thumb d-block">
+                  <Link to="/" className="td_card_thumb d-block">
                     <img
                       src={campusLife2}
                       alt="Arts & Cultural Program"
@@ -256,9 +259,9 @@ export const CampusOne = () => {
                   </Link>
                   <div className="td_card_info">
                     <h2 className="td_card_title mb-0 td_fs_18 td_semibold td_white_color">
-                      <Link to="/course-details">Arts & Cultural Program</Link>
+                      <Link to="/">Arts & Cultural Program</Link>
                     </h2>
-                    <Link to="/course-details" className="td_card_btn">
+                    <Link to="/" className="td_card_btn">
                       <svg
                         width="23"
                         height="24"
@@ -312,7 +315,7 @@ export const CampusOne = () => {
                   data-wow-duration="1s"
                   data-wow-delay="0.3s"
                 >
-                  <Link to="/course-details" className="td_card_thumb d-block">
+                  <Link to="/" className="td_card_thumb d-block">
                     <img
                       src={campusLife4}
                       alt="Sports & Fitness"
@@ -321,9 +324,9 @@ export const CampusOne = () => {
                   </Link>
                   <div className="td_card_info">
                     <h2 className="td_card_title mb-0 td_fs_18 td_semibold td_white_color">
-                      <Link to="/course-details">Sports & Fitness</Link>
+                      <Link to="/">Sports & Fitness</Link>
                     </h2>
-                    <Link to="/course-details" className="td_card_btn">
+                    <Link to="/" className="td_card_btn">
                       <svg
                         width="23"
                         height="24"
