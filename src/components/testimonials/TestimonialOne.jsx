@@ -101,21 +101,21 @@ export const TestimonialOne = () => {
                           </svg>
                         </span>
                         <div className="td_testimonial_meta td_mb_24">
-                          <img src={avatar1} alt="Marvin McKinney" />
+                          <img src={avatar1} alt="Rahul Sharma" />
                           <div className="td_testimonial_meta_right">
                             <h3 className="td_fs_24 td_semibold td_mb_2">
-                              Marvin McKinney
+                              Rahul Sharma
                             </h3>
                             <p className="td_fs_14 mb-0 td_heading_color td_opacity_7">
-                              15th Batch Students
+                              5th Batch Student
                             </p>
                           </div>
                         </div>
                         <blockquote className="td_testimonial_text td_fs_20 td_medium td_heading_color td_mb_24 td_opacity_9">
-                          The pandemic has accelerated the shift to online and
-                          hybrid learning models. Platforms like Coursera, edX,
-                          and university-specific online programs offer
-                          flexibility and accessibility to a wider audience.
+                          Studying at Shri Krishna Ayush University has been a
+                          transformative experience. The faculty's deep
+                          understanding of Ayurveda and their dedication to
+                          students' growth is truly commendable.
                         </blockquote>
                         <div className="td_rating" data-rating="5">
                           <i className="fa-regular fa-star"></i>
@@ -153,21 +153,21 @@ export const TestimonialOne = () => {
                           </svg>
                         </span>
                         <div className="td_testimonial_meta td_mb_24">
-                          <img src={avatar2} alt="Marry Kristano" />
+                          <img src={avatar2} alt="Priya Desai" />
                           <div className="td_testimonial_meta_right">
                             <h3 className="td_fs_24 td_semibold td_mb_2">
-                              Marry Kristano
+                              Priya Desai
                             </h3>
                             <p className="td_fs_14 mb-0 td_heading_color td_opacity_7">
-                              13th Batch Students
+                              7th Batch Student
                             </p>
                           </div>
                         </div>
                         <blockquote className="td_testimonial_text td_fs_20 td_medium td_heading_color td_mb_24 td_opacity_9">
-                          The pandemic has accelerated the shift to online and
-                          hybrid learning models. Platforms like Coursera, edX,
-                          and university-specific online programs offer
-                          flexibility and accessibility to a wider audience.
+                          Shri Krishna Ayush University offers an incredible
+                          blend of traditional Ayurveda and modern approaches.
+                          The practical learning sessions have been especially
+                          enriching.
                         </blockquote>
                         <div className="td_rating" data-rating="4.5">
                           <i className="fa-regular fa-star"></i>
@@ -180,7 +180,7 @@ export const TestimonialOne = () => {
                             <i className="fa-solid fa-star fa-fw"></i>
                             <i className="fa-solid fa-star fa-fw"></i>
                             <i className="fa-solid fa-star fa-fw"></i>
-                            <i className="fa-solid fa-star fa-fw"></i>
+                            <i className="fa-solid fa-star-half-stroke fa-fw"></i>
                           </div>
                         </div>
                       </div>
