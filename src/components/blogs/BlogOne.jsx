@@ -50,7 +50,7 @@ export const BlogOne = () => {
           </p>
           <h2 className="td_section_title td_fs_48 mb-0">
             Take A Look At The Latest <br />
-            Articles
+            Articles 
           </h2>
         </div>
 

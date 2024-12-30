@@ -42,7 +42,7 @@ export const HomeOne = () => {
       <TestimonialOne />
 
       {/* blog */}
-      <BlogOne />
+      {/* <BlogOne /> */}
     </Layout>
   );
 };

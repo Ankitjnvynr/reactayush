@@ -10,22 +10,29 @@ export const HeroOne = () => {
         className="td_hero td_style_1 td_heading_bg td_center td_bg_filed"
         style={{ backgroundImage: `url(${heroBg})`, marginTop: '20px' }}
       >
-        <div className="container">
+        <div style={{
+          display: 'flex',
+          justifyContent: 'flex-end',
+          textAlign:'right'
+        }} className="container ">
           <div
             className="td_hero_text wow fadeInRight"
             data-wow-duration="0.9s"
             data-wow-delay="0.35s"
           >
-            <p className="td_hero_subtitle_up td_fs_52 td_white_color td_spacing_1 td_semibold text-uppercase td_mb_10 td_opacity_9">
-              Knowledge is Power
-            </p>
-            <h3 className="td_hero_title td_fs_32 td_white_color td_mb_12 td_opacity_9 mt-5 pt-5">
-              <span>SHRI KRISHNA AYUSH UNIVERSITY </span> - The Best Place to Invest in your Knowledge
+            
+            <h3  className="td_hero_title td_fs_32 td_white_color td_mb_12 td_opacity_9 mt-5 pt-5">
+              <span>SHRI KRISHNA AYUSH UNIVERSITY <br/> </span> 
+              <p style={
+                {
+                  textShadow: '3px 4px 1px #000000',
+                }
+              } >- The Best Place to Invest in your Knowledge</p>
            
             </h3>
            
             <Link
-              to="/courses-grid-view"
+              to="/"
               className="td_btn td_style_1 td_radius_10 td_medium"
             >
               <span className="td_btn_in td_white_color td_accent_bg">
